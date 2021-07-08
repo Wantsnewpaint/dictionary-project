@@ -1,7 +1,13 @@
+body {
+    background: rgb(40, 40, 40);
+    color: #fff;
+}
+
 .App-header {
     text-align: center;
     margin: 50px;
 }
+
 .App-footer {
     text-align: center;
     margin-top: 15px;
