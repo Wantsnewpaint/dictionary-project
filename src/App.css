@@ -1,11 +1,18 @@
 body {
-    background: rgb(40, 40, 40);
+    background: rgb(60, 60, 60);
     color: #fff;
+}
+
+.App {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
 .App-header {
     text-align: center;
-    margin: 50px;
+    font-size: 48px;
+    margin: 30px;
+    font-weight: 500;
 }
 
 .App-footer {
