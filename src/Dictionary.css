@@ -4,19 +4,21 @@
     border: 2px solid rgb(255, 0, 98);
     margin: 15px 0;
 }
+.Dictionary h3 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
 .Dictionary form {
-    text-align: center;
     border: none;
 }
 
 .Dictionary input {
-    width: 50%;
+    width: 100%;
     padding: 5px 10px;
     color: darkslategray;
 }
 
 .Dictionary .hint {
-    text-align: center;
     font-size: 12px;
-    margin-top: 5px;
+    margin-top: 10px;
 }

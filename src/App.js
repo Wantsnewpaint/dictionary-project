@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">WantsNewPaint WebDesign</header>
         <main>
-          <Dictionary defaultKeyword="nothing" />
+          <Dictionary defaultKeyword="salutation" />
         </main>
         <footer className="App-footer"><small><a href="https://github.com/Wantsnewpaint/dictionary-project" target="_blank" rel="noreferrer">Open-source</a> code by Bridget Young</small></footer>
       </div>
